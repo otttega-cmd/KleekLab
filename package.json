@@ -1,0 +1,19 @@
+{
+  "name": "kleeklab-template",
+  "version": "1.0.0",
+  "description": "This is the JSON file for the front end of the web application- KleekLab",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otttega-cmd/KleekLab.git"
+  },
+  "author": "Ayomide Alade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otttega-cmd/KleekLab/issues"
+  },
+  "homepage": "https://github.com/otttega-cmd/KleekLab#readme"
+}
